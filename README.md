@@ -39,3 +39,11 @@ These contracts were inspired by and/or directly modified from the following sou
 - [Solmate](https://github.com/Rari-Capital/solmate)
 - [OpenZeppelin](https://github.com/OpenZeppelin/openzeppelin-contracts)
 - [Uniswap-v3](https://github.com/Uniswap/uniswap-v3-core/blob/main/contracts/libraries/TransferHelper.sol)
+
+## Audits
+
+Audit reports are hosted on the auditors' public portfolio pages:
+
+| Auditor | Report | Date |
+| --- | --- | --- |
+| Cantina | [erc20-helpers upgradeable-proxy](https://cantina.xyz/portfolio/d3ba51dd-e2ef-41fe-a33f-7da5573256e6) | 2023-11-03 |
